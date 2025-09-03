@@ -184,7 +184,7 @@ export const LANGUAGE_TO_FLAG = {
   spanish: "es",
   french: "fr",
   german: "de",
-  mandarin: "cn",
+  mandarin: "cn", 
   japanese: "jp",
   korean: "kr",
   hindi: "in",
